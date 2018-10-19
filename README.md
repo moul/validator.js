@@ -1,5 +1,7 @@
 # validator.js
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/validator.js.svg)](https://www.guardrails.io)
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Downloads][downloads-image]][npm-url]
 
 A library of string validators and sanitizers.
